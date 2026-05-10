@@ -2,140 +2,158 @@
 
 # Gopichand Hinge
 
-### Senior Generative AI Engineer • Agentic AI Developer • LLM Systems Engineer
+### Senior Generative AI Engineer • Agentic AI Developer • Enterprise LLM Systems Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Architecting+Production-Scale+Generative+AI+Systems;Building+Enterprise+RAG+%26+Agentic+AI+Platforms;Engineering+Scalable+LLM+Infrastructure+on+AWS;Designing+Multi-Agent+AI+Workflows+for+Enterprise+Systems" />
+
+<br>
 
 <p align="center">
-Building enterprise-grade AI systems powered by LLMs, RAG architectures, multi-agent orchestration, and scalable cloud-native infrastructure.
+Designing and deploying enterprise-grade AI systems powered by <b>LLMs</b>, <b>RAG pipelines</b>, <b>agentic orchestration</b>, and <b>distributed cloud-native infrastructure</b>.
 </p>
 
 <p align="center">
-Specialized in production AI engineering across enterprise knowledge systems, intelligent automation, semantic retrieval, and distributed AI platforms.
+Specialized in production AI engineering across <b>semantic retrieval</b>, <b>multi-agent systems</b>, <b>enterprise knowledge platforms</b>, <b>AI infrastructure</b>, and <b>large-scale distributed data systems</b>.
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI-Engineering-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative-AI-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic-AI-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMOps-Production-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Enterprise_AI-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-E63946?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Infrastructure-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge"/>
+
 </p>
 
 </div>
 
 ---
 
-# Engineering Focus
+# Enterprise AI Engineering
 
-I design and deploy production-grade AI systems focused on:
+<table>
+<tr>
+<td width="50%">
 
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI & Multi-Agent Workflows
-- Enterprise Knowledge Platforms
-- Semantic Search Systems
-- LLM-Powered APIs & Automation
-- Distributed AI Infrastructure
-- Cloud-Native AI Platforms
-- Scalable Inference & Observability
+### AI Platforms & Systems
 
-My work combines large language models, vector retrieval, distributed data systems, and modern cloud infrastructure to build enterprise AI solutions capable of real-world deployment at scale.
+- Enterprise RAG Platforms  
+- Agentic AI Workflows  
+- Multi-Agent Architectures  
+- Semantic Retrieval Systems  
+- AI Decision Intelligence  
+- LLM-Powered APIs  
+- Enterprise Knowledge Systems  
+- Intelligent Automation Platforms  
+
+</td>
+
+<td width="50%">
+
+### Distributed AI Infrastructure
+
+- Cloud-Native AI Systems  
+- Distributed Inference Pipelines  
+- Real-Time AI Processing  
+- Scalable AI Microservices  
+- AI Observability & Monitoring  
+- High-Throughput Architectures  
+- Event-Driven Systems  
+- Enterprise Deployment Pipelines  
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Core Expertise
 
-## Generative AI & LLM Systems
+<div align="center">
 
-```yaml
-RAG Architecture
-Agentic AI Systems
-LangChain
-LangGraph
-Prompt Engineering
-Tool Calling
-Semantic Retrieval
-Hybrid Search
-Multi-Step Reasoning
-LLM Evaluation
-AI Guardrails
-Context Orchestration
-```
+## Generative AI & LLM Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG_Architecture-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ReAct_&_Tool_Calling-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Retrieval-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hybrid_Search-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Evaluation-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Guardrails-9333EA?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## AI Infrastructure & Cloud Platforms
 
-```yaml
-AWS Bedrock
-OpenAI GPT-4 / GPT-4o
-Azure OpenAI
-AWS EKS
-Docker
-Kubernetes
-Terraform
-CI/CD Pipelines
-Cloud-Native AI Systems
-Distributed Inference
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_GPT--4-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Inference-2563EB?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## Vector Search & Knowledge Systems
 
-```yaml
-Pinecone
-FAISS
-Embeddings
-Semantic Search
-Hybrid Retrieval
-Knowledge Retrieval Systems
-Low-Latency Search Pipelines
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Knowledge_Retrieval-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Low_Latency_Pipelines-0284C7?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## Data Engineering & Distributed Processing
 
-```yaml
-Apache Spark (PySpark)
-Databricks
-Delta Lake
-Apache Kafka
-Apache Airflow
-ETL / ELT Pipelines
-Lakehouse Architecture
-Streaming Data Systems
-Distributed Data Processing
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lakehouse_Architecture-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streaming_Data_Systems-059669?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## Backend Engineering & APIs
 
-```yaml
-Python
-FastAPI
-Flask
-REST APIs
-Microservices
-Event-Driven Architecture
-Scalable Backend Systems
-```
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event_Driven_Systems-14B8A6?style=for-the-badge"/>
 
-# Production AI Areas
-
-<div align="center">
-
-| Enterprise AI | LLM Systems | Infrastructure |
-|---|---|---|
-| Decision Intelligence | Agentic AI | Kubernetes |
-| RAG Platforms | Multi-Agent Systems | Docker |
-| Semantic Search | Prompt Engineering | Terraform |
-| AI APIs | Tool Calling | CI/CD |
-| Knowledge Systems | LLM Evaluation | Cloud Observability |
+</p>
 
 </div>
 
@@ -143,45 +161,16 @@ Scalable Backend Systems
 
 # Current Focus
 
-Currently building enterprise AI systems capable of:
-
-- autonomous reasoning
-- dynamic workflow orchestration
-- enterprise semantic retrieval
-- production-scale inference
-- scalable multi-agent execution
-- low-latency AI pipelines
-- observability-driven AI operations
-- enterprise-grade deployment architectures
-
----
-
-# Tech Stack
-
-<div align="center">
-
-### Languages
-Python • SQL • Java • TypeScript • Bash
-
-### Generative AI
-LangChain • LangGraph • OpenAI • Claude • RAG • Agentic AI
-
-### Vector Databases
-Pinecone • FAISS
-
-### Cloud & Infrastructure
-AWS • Azure • Kubernetes • Docker • Terraform
-
-### Data Engineering
-Spark • Databricks • Kafka • Airflow • Delta Lake
-
-### Backend & APIs
-FastAPI • Flask • REST APIs • Microservices
-
-### Monitoring & Observability
-Prometheus • CloudWatch • MLflow
-
-</div>
+```yaml
+Building enterprise AI systems capable of:
+  - autonomous reasoning
+  - dynamic workflow orchestration
+  - production-scale semantic retrieval
+  - distributed LLM inference
+  - scalable multi-agent execution
+  - observability-driven AI operations
+  - enterprise-grade deployment architectures
+```
 
 ---
 
@@ -193,10 +182,8 @@ Prometheus • CloudWatch • MLflow
 
 📧 gopichandhinge123@outlook.com
 
-🔗 LinkedIn: linkedin.com/in/gopichand-hinge
+🔗 linkedin.com/in/gopichand-hinge
 
-💻 GitHub: github.com/G118chand
-
-🌎 Open to Full-Time • Contract • C2C Opportunities
+💻 github.com/G118chand
 
 </div>
