@@ -1,187 +1,202 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Gopichand Hinge</h1>
+# Gopichand Hinge
 
-<h3 align="center">
-Senior Generative AI & ML Engineer | Agentic AI Developer | RAG & LLM Systems Engineer
-</h3>
-
-<p align="center">
-🚀 Building Production-Grade GenAI Applications <br>
-🧠 Specializing in LLMs, RAG Pipelines, Agentic AI & Scalable AI Systems <br>
-☁️ AWS • Bedrock • LangChain • LangGraph • Pinecone • Kubernetes
-</p>
-
----
-
-## 🌟 About Me
-
-- 🔭 Currently working on **Enterprise GenAI & Decision Intelligence Platforms**
-- 🤖 Building **RAG pipelines**, **Agentic AI workflows**, and **LLM-powered applications**
-- ⚡ Specialized in:
-  - Multi-Agent Systems
-  - Retrieval-Augmented Generation (RAG)
-  - AI Orchestration
-  - LLMOps & MLOps
-  - Cloud-Native AI Systems
-- ☁️ Working with **AWS Bedrock (Claude)**, **OpenAI GPT-4**, and **Azure OpenAI**
-- 📈 Focused on scalable AI systems with:
-  - Low latency
-  - High retrieval accuracy
-  - Production-grade observability
-- 💬 Ask me about:
-  - GenAI
-  - RAG
-  - LangChain
-  - LangGraph
-  - LLM Architecture
-  - AI Agents
-  - Vector Databases
-  - ML Engineering
-  - MLOps
-- 🌎 Open to:
-  - Full-Time
-  - Contract
-  - C2C
-  - Remote / Hybrid Opportunities
-
----
-
-# 🚀 Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash" />
-</p>
-
----
-
-## 🧠 Generative AI & LLM Engineering
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-GPT4-black?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Claude-AWS%20Bedrock-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-Agentic%20Workflows-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-MultiAgent-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Pipelines-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VectorDB-Pinecone-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-Semantic%20Search-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge" />
-</p>
-
----
-
-## ☁️ Cloud & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform" />
-</p>
-
----
-
-## ⚙️ Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
----
-
-## 📊 Data Engineering & Big Data
-
-<p>
-<img src="https://img.shields.io/badge/Apache%20Spark-PySpark-orange?style=for-the-badge&logo=apachespark" />
-<img src="https://img.shields.io/badge/Databricks-Lakehouse-red?style=for-the-badge&logo=databricks" />
-<img src="https://img.shields.io/badge/Kafka-Streaming-black?style=for-the-badge&logo=apachekafka" />
-<img src="https://img.shields.io/badge/Airflow-Orchestration-blue?style=for-the-badge&logo=apacheairflow" />
-<img src="https://img.shields.io/badge/Delta%20Lake-Storage-00ADD8?style=for-the-badge" />
-</p>
-
----
-
-## 📈 MLOps / LLMOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
-<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus" />
-<img src="https://img.shields.io/badge/CloudWatch-Observability-yellow?style=for-the-badge&logo=amazonaws" />
-</p>
-
----
-
-# 🏗️ Featured Areas
-
-✨ Enterprise AI Platforms  
-✨ Retrieval-Augmented Generation (RAG)  
-✨ Agentic AI Systems  
-✨ Multi-Agent Orchestration  
-✨ AI-Powered APIs  
-✨ Semantic Search Systems  
-✨ AI Decision Intelligence  
-✨ LLM Evaluation & Guardrails  
-✨ Production AI Infrastructure  
-✨ AI Observability & Monitoring  
-
----
-
-# 📊 GitHub Stats
+### Senior Generative AI Engineer • Agentic AI Developer • LLM Systems Engineer
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=G118chand&show_icons=true&theme=tokyonight" />
+Building enterprise-grade AI systems powered by LLMs, RAG architectures, multi-agent orchestration, and scalable cloud-native infrastructure.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=G118chand&theme=tokyonight" />
+Specialized in production AI engineering across enterprise knowledge systems, intelligent automation, semantic retrieval, and distributed AI platforms.
 </p>
+
+<br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G118chand&layout=compact&theme=tokyonight" />
+<img src="https://img.shields.io/badge/AI-Engineering-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative-AI-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic-AI-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMOps-Production-orange?style=for-the-badge"/>
 </p>
 
----
-
-# 🧠 Currently Exploring
-
-- 🔹 Advanced Agentic AI Architectures
-- 🔹 Multi-Agent Collaboration Systems
-- 🔹 Enterprise LLMOps
-- 🔹 AI Evaluation Frameworks
-- 🔹 Autonomous AI Workflows
-- 🔹 Production-Scale RAG Optimization
+</div>
 
 ---
 
-# 📫 Connect With Me
+# Engineering Focus
 
-<p>
-<a href="mailto:gopichandhinge123@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+I design and deploy production-grade AI systems focused on:
 
-<a href="https://linkedin.com/in/gopichand-hinge">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Multi-Agent Workflows
+- Enterprise Knowledge Platforms
+- Semantic Search Systems
+- LLM-Powered APIs & Automation
+- Distributed AI Infrastructure
+- Cloud-Native AI Platforms
+- Scalable Inference & Observability
 
-<a href="https://github.com/G118chand">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-# ⚡ Fun Fact
-
-🧠 I enjoy building AI systems that combine:
-- LLMs
-- Data Engineering
-- Cloud Infrastructure
-- Scalable Production Architectures
-
-to solve real-world enterprise problems.
+My work combines large language models, vector retrieval, distributed data systems, and modern cloud infrastructure to build enterprise AI solutions capable of real-world deployment at scale.
 
 ---
 
-<p align="center">
-⭐️ From <a href="https://github.com/G118chand">Gopichand Hinge</a>
-</p>
+# Core Expertise
+
+## Generative AI & LLM Systems
+
+```yaml
+RAG Architecture
+Agentic AI Systems
+LangChain
+LangGraph
+Prompt Engineering
+Tool Calling
+Semantic Retrieval
+Hybrid Search
+Multi-Step Reasoning
+LLM Evaluation
+AI Guardrails
+Context Orchestration
+```
+
+---
+
+## AI Infrastructure & Cloud Platforms
+
+```yaml
+AWS Bedrock
+OpenAI GPT-4 / GPT-4o
+Azure OpenAI
+AWS EKS
+Docker
+Kubernetes
+Terraform
+CI/CD Pipelines
+Cloud-Native AI Systems
+Distributed Inference
+```
+
+---
+
+## Vector Search & Knowledge Systems
+
+```yaml
+Pinecone
+FAISS
+Embeddings
+Semantic Search
+Hybrid Retrieval
+Knowledge Retrieval Systems
+Low-Latency Search Pipelines
+```
+
+---
+
+## Data Engineering & Distributed Processing
+
+```yaml
+Apache Spark (PySpark)
+Databricks
+Delta Lake
+Apache Kafka
+Apache Airflow
+ETL / ELT Pipelines
+Lakehouse Architecture
+Streaming Data Systems
+Distributed Data Processing
+```
+
+---
+
+## Backend Engineering & APIs
+
+```yaml
+Python
+FastAPI
+Flask
+REST APIs
+Microservices
+Event-Driven Architecture
+Scalable Backend Systems
+```
+
+---
+
+# Production AI Areas
+
+<div align="center">
+
+| Enterprise AI | LLM Systems | Infrastructure |
+|---|---|---|
+| Decision Intelligence | Agentic AI | Kubernetes |
+| RAG Platforms | Multi-Agent Systems | Docker |
+| Semantic Search | Prompt Engineering | Terraform |
+| AI APIs | Tool Calling | CI/CD |
+| Knowledge Systems | LLM Evaluation | Cloud Observability |
+
+</div>
+
+---
+
+# Current Focus
+
+Currently building enterprise AI systems capable of:
+
+- autonomous reasoning
+- dynamic workflow orchestration
+- enterprise semantic retrieval
+- production-scale inference
+- scalable multi-agent execution
+- low-latency AI pipelines
+- observability-driven AI operations
+- enterprise-grade deployment architectures
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+Python • SQL • Java • TypeScript • Bash
+
+### Generative AI
+LangChain • LangGraph • OpenAI • Claude • RAG • Agentic AI
+
+### Vector Databases
+Pinecone • FAISS
+
+### Cloud & Infrastructure
+AWS • Azure • Kubernetes • Docker • Terraform
+
+### Data Engineering
+Spark • Databricks • Kafka • Airflow • Delta Lake
+
+### Backend & APIs
+FastAPI • Flask • REST APIs • Microservices
+
+### Monitoring & Observability
+Prometheus • CloudWatch • MLflow
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+### Gopichand Hinge
+
+📧 gopichandhinge123@outlook.com
+
+🔗 LinkedIn: linkedin.com/in/gopichand-hinge
+
+💻 GitHub: github.com/G118chand
+
+🌎 Open to Full-Time • Contract • C2C Opportunities
+
+</div>
