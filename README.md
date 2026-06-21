@@ -276,7 +276,7 @@
 
 ## `SPACE://ROBOT LAB`
 
-<img width="100%" src="./assets/space-robot-lab.svg" alt="Animated satellite and robots"/>
+<img width="100%" src="https://raw.githubusercontent.com/G118chand/G118chand/main/assets/space-robot-lab.svg?v=2" alt="Animated satellite and robots"/>
 
 </div>
 
