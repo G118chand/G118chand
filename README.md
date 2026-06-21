@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:6D28D9,75:0891B2,100:10B981&height=230&section=header&text=GOPICHAND%20HINGE&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=SENIOR%20GENERATIVE%20AI%20ENGINEER&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/G118chand/G118chand/main/assets/gopichand-cinematic-header.svg?v=2" alt="Gopichand Hinge cinematic space header"/>
 
 <div align="center">
 
