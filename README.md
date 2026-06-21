@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<img width="100%" src="https://raw.githubusercontent.com/G118chand/G118chand/main/assets/gopichand-cinematic-header.svg?v=2" alt="Gopichand Hinge cinematic space header"/>
+<img width="100%" src="https://raw.githubusercontent.com/G118chand/G118chand/main/gopichand-cinematic-header.svg?v=3" alt="Gopichand Hinge cinematic space header"/>
 
 <div align="center">
 
