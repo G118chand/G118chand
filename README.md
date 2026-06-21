@@ -56,7 +56,7 @@
 
 <div align="center">
 
-## `// CORE SYSTEM`
+## ` CORE SYSTEM`
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,bash,fastapi,flask,git,github,linux&theme=dark&perline=11"/>
 
