@@ -285,10 +285,4 @@
 <div align="center">
 
 ```text
-╔════════════════════════════════════════════════════════════════════╗
-║  G118chand:GOPICHAND HINGE                                         ║
-║                                                                    ║
-║  [ GENERATIVE AI ] [ AGENTS ] [ CLOUD ] [ DATA ] [ MLOPS ]         ║
-║                                                                    ║
-║  STATUS: ONLINE                              LOCATION: USA         ║
-╚════════════════════════════════════════════════════════════════════╝
+
