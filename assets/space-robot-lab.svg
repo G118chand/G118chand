@@ -1,0 +1,37 @@
+# .github/workflows/space-robot.yml
+
+name: Publish Space Robot Animation
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/space-robot-lab.svg"
+      - ".github/workflows/space-robot.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Prepare animated space scene
+        run: |
+          mkdir -p dist
+          cp assets/space-robot-lab.svg dist/space-robot-lab.svg
+
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
